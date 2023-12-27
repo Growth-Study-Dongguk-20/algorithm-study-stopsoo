@@ -29,13 +29,13 @@
 📂algorithm_lecture_summary  
 ┣ 📂Section[Section_Num]  
  ┃ ┗ 📝[Title].md  
- ┗ 📝templete.md
+ ┗ 📝template.md
 
  📂algorithm_workbook  
  ┣ 📂Q[Question_Num]  
  ┃ ┣ 👩‍💻[Title].py  
  ┃ ┗ 📝[Title].md  
- ┗ 📝templete.md
+ ┗ 📝template.md
 <br><br>
 
 1. 개인 Repo 안에 `algorithm_lecture_summary` 와 `algorithm_workbook` 디렉토리를 구분한다.
